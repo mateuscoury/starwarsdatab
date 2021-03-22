@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mateuscoury.github.io/starwarsdatab/static/css/main.5356ceca.chunk.css",
+    "main.js": "/mateuscoury.github.io/starwarsdatab/static/js/main.d58a0fc2.chunk.js",
+    "main.js.map": "/mateuscoury.github.io/starwarsdatab/static/js/main.d58a0fc2.chunk.js.map",
+    "runtime-main.js": "/mateuscoury.github.io/starwarsdatab/static/js/runtime-main.62667d84.js",
+    "runtime-main.js.map": "/mateuscoury.github.io/starwarsdatab/static/js/runtime-main.62667d84.js.map",
+    "static/js/2.48e0352b.chunk.js": "/mateuscoury.github.io/starwarsdatab/static/js/2.48e0352b.chunk.js",
+    "static/js/2.48e0352b.chunk.js.map": "/mateuscoury.github.io/starwarsdatab/static/js/2.48e0352b.chunk.js.map",
+    "index.html": "/mateuscoury.github.io/starwarsdatab/index.html",
+    "precache-manifest.2ecca8545f67e6d7dbba5ca41c061c61.js": "/mateuscoury.github.io/starwarsdatab/precache-manifest.2ecca8545f67e6d7dbba5ca41c061c61.js",
+    "service-worker.js": "/mateuscoury.github.io/starwarsdatab/service-worker.js",
+    "static/css/main.5356ceca.chunk.css.map": "/mateuscoury.github.io/starwarsdatab/static/css/main.5356ceca.chunk.css.map",
+    "static/js/2.48e0352b.chunk.js.LICENSE.txt": "/mateuscoury.github.io/starwarsdatab/static/js/2.48e0352b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62667d84.js",
+    "static/js/2.48e0352b.chunk.js",
+    "static/css/main.5356ceca.chunk.css",
+    "static/js/main.d58a0fc2.chunk.js"
+  ]
+}

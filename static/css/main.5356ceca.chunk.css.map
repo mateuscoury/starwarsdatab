@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,eACE,qBACF","file":"main.5356ceca.chunk.css","sourcesContent":["table, tr, th, td {\r\n  border: 1px solid black;\r\n}\r\n"]}
