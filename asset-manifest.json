@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/appdeReceitas/static/css/main.9c42a0c9.chunk.css",
-    "main.js": "/appdeReceitas/static/js/main.8d3d03f9.chunk.js",
-    "main.js.map": "/appdeReceitas/static/js/main.8d3d03f9.chunk.js.map",
-    "runtime-main.js": "/appdeReceitas/static/js/runtime-main.f62e880e.js",
-    "runtime-main.js.map": "/appdeReceitas/static/js/runtime-main.f62e880e.js.map",
-    "static/js/2.48e0352b.chunk.js": "/appdeReceitas/static/js/2.48e0352b.chunk.js",
-    "static/js/2.48e0352b.chunk.js.map": "/appdeReceitas/static/js/2.48e0352b.chunk.js.map",
-    "index.html": "/appdeReceitas/index.html",
-    "precache-manifest.b8e4cb785af9723f301b6201ebca3ea2.js": "/appdeReceitas/precache-manifest.b8e4cb785af9723f301b6201ebca3ea2.js",
-    "service-worker.js": "/appdeReceitas/service-worker.js",
-    "static/css/main.9c42a0c9.chunk.css.map": "/appdeReceitas/static/css/main.9c42a0c9.chunk.css.map",
-    "static/js/2.48e0352b.chunk.js.LICENSE.txt": "/appdeReceitas/static/js/2.48e0352b.chunk.js.LICENSE.txt"
+    "main.css": "/starwarsdatab/static/css/main.9c42a0c9.chunk.css",
+    "main.js": "/starwarsdatab/static/js/main.8d3d03f9.chunk.js",
+    "main.js.map": "/starwarsdatab/static/js/main.8d3d03f9.chunk.js.map",
+    "runtime-main.js": "/starwarsdatab/static/js/runtime-main.952f264a.js",
+    "runtime-main.js.map": "/starwarsdatab/static/js/runtime-main.952f264a.js.map",
+    "static/js/2.48e0352b.chunk.js": "/starwarsdatab/static/js/2.48e0352b.chunk.js",
+    "static/js/2.48e0352b.chunk.js.map": "/starwarsdatab/static/js/2.48e0352b.chunk.js.map",
+    "index.html": "/starwarsdatab/index.html",
+    "precache-manifest.715416671ee553c9296903b247d11fd1.js": "/starwarsdatab/precache-manifest.715416671ee553c9296903b247d11fd1.js",
+    "service-worker.js": "/starwarsdatab/service-worker.js",
+    "static/css/main.9c42a0c9.chunk.css.map": "/starwarsdatab/static/css/main.9c42a0c9.chunk.css.map",
+    "static/js/2.48e0352b.chunk.js.LICENSE.txt": "/starwarsdatab/static/js/2.48e0352b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f62e880e.js",
+    "static/js/runtime-main.952f264a.js",
     "static/js/2.48e0352b.chunk.js",
     "static/css/main.9c42a0c9.chunk.css",
     "static/js/main.8d3d03f9.chunk.js"
